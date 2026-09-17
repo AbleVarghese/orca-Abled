@@ -1,9 +1,9 @@
 {
-  "name": "orca",
+  "name": "orca-management",
   "version": "1.4.197",
-  "description": "Next-gen IDE for parallel agentic development",
-  "homepage": "https://github.com/stablyai/orca",
-  "author": "stablyai",
+  "description": "Next-gen IDE for parallel agentic development - Management Fork",
+  "homepage": "https://github.com/AbleVarghese/orca-Abled",
+  "author": "AbleVarghese",
   "bin": {
     "orca": "./out/cli/index.js",
     "orca-dev": "./config/scripts/orca-dev.mjs"
